@@ -1,0 +1,27 @@
+H1 {
+    color: black;
+}
+
+H2{
+    color: grey;
+}
+
+#p1{
+    Color: orange;
+}
+
+#p2{
+    Color: green;
+}
+
+#p3{
+    Color: grey;
+}
+
+img{
+    height: 300px
+}
+
+body{
+    background-image:url(background.JPG); background-size: cover;
+}

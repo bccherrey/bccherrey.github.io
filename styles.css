@@ -18,9 +18,30 @@ H2{
     Color: grey;
 }
 
-img{
-    height: 300px
+h4{
+    Color: white;
 }
+
+h6{
+    Color: white;
+}
+
+
+h5{
+    Color: white;
+}
+
+#li{
+    Color: green;
+}
+
+img{
+    height: 200px
+}
+
+mt-1 {
+    margin-top: 1 !important;
+  }
 
 body{
     background-image:url(background.JPG); background-size: cover;
